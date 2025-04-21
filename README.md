@@ -5,4 +5,4 @@
 ## Установка
 
 ```bash
-go get -u github.com/talasbekov/cache
+go get -u github.com/talasbekov/cache@v0.1.0
